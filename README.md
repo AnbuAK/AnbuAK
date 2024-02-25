@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anbukkarasu</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌱 I’m currently learning **Blockchain , Flutter , Maximo and DeFi**
+- 🌱 I’m currently learning **Java, Wordpress, Flutter , Maximo and Blockchain**
 
 - 🤝 I’m looking for help with **Decentralized platform**
 
-- 💬 Ask me about **Java , Web3.0**
+- 💬 Ask me about **Java , Flutter Web3.0**
 
 - 📫 How to reach me **anbukkarasuak@gmail.com**
 
-- ⚡ Fun fact **I'm a guy who makes dark jokes**
+- ⚡ Fun fact **I'm a billionaire**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
